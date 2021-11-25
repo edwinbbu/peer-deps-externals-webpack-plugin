@@ -1,5 +1,5 @@
 {
-  "name": "peer-deps-externals-webpack-plugin",
+  "name": "@bigbinary/peer-deps-externals-webpack-plugin",
   "version": "1.0.5",
   "description": "Webpack plugin to automatically add a library's peerDependencies to its bundle's externals.",
   "repository": "https://github.com/edwinbbu/peer-deps-externals-webpack-plugin",
